@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item android:id="@+id/location_menu"
+            android:title="Location"
+            app:showAsAction="never"/>
+
+        <item
+            android:id="@+id/about_menu"
+            android:title="About"
+            app:showAsAction="never"
+            tools:ignore="HardcodedText" />
+
+        <item android:id="@+id/logout_menu"
+            android:title="Logout"
+            app:showAsAction="never"
+            tools:ignore="HardcodedText" />
+
+    </menu>
