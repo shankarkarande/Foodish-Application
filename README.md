@@ -2,9 +2,9 @@
 Foodish is an application developed in Android for small shop to keep records of the sold products, to save bill and send message to the customer how much amount is pending.
 
 # Features
-<li>Store the data of customer</li>
-<li>Sending SMS to the customer</li>
-<li>Deleting the customer Records</li>
+<li>Store the data of customer.</li>
+<li>Sending SMS to the customer.</li>
+<li>Deleting the records of customer.</li>
 
 # Developers
 <li>Shankar Karande (<a href="mailto:shankarkarande440@gmai.com">shankarkarande440@gmai.com</a>)</li>
